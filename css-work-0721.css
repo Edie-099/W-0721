@@ -168,14 +168,6 @@ a {
     align-items: center;
 }
 
-.nav a{
-    transition: 0.6s;
-}
-
-.nav a:hover{
-    color: #00FFA3;
-}
-
 .header {
     background-color: black;
     color: #D1D1D1;
